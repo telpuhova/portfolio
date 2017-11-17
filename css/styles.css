@@ -1,7 +1,8 @@
 body {
   background-color: #cbd6db;
   background: linear-gradient(#a3c0ce, #bac3c6, #abd1b6);
-  background-size: 1500px 1200px;;
+  background-size: 1500px 1200px;
+  background-attachment: fixed;
   /*background-repeat: no-repeat;*/
   /*line-height: 1;*/
 }
@@ -15,7 +16,7 @@ body {
 }
 
 img {
-  width: 250px;
+  width: 300px;
   /*padding-left: 15%;*/
   margin-left: 25%;
   /*float: right;*/
@@ -25,17 +26,32 @@ ol {
   /*line-height: 0.8;*/
 }
 
+h2 {
+  padding-bottom: 30px;
+}
+
+p {
+  line-height: 0.5;
+}
+
+.well p {
+  line-height: 1.4;
+  padding-left: 50px;
+}
+
 .important {
   color: #1f3460;
 }
 
 .well {
   margin-top: 50px;
-  background: linear-gradient(to bottom right, #ffffff, #d1d1d1);
+  background: linear-gradient(to bottom right, #ffffff, #c1c1c1);
+  width: 450px;
 }
 
 a {
   text-decoration: underline;
+  line-height: 3;
 }
 
 .panel-heading {
