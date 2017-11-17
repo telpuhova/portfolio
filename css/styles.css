@@ -10,17 +10,15 @@ body {
   padding-top: 3%;
 }
 
+.nav-tabs {
+  margin-bottom: 40px;
+}
+
 img {
   width: 250px;
   /*padding-left: 15%;*/
   margin-left: 25%;
   /*float: right;*/
-}
-
-.column {
-  float: left;
-  width: 40%;
-  padding-right: 10%;
 }
 
 ol {
@@ -38,4 +36,79 @@ ol {
 
 a {
   text-decoration: underline;
+}
+
+.panel-heading {
+  background-color: #a3c0ce!important;
+}
+
+.panel-title {
+  color: #515151;
+  /*font-weight: */
+}
+
+#wi.panel-body {
+  height: 300px;
+  background-image: url(../img/ss1.png);
+  background-size: contain;
+}
+
+#dv.panel-body {
+  height: 300px;
+  background-image: url(../img/ss2.png);
+  background-size: contain;
+}
+
+#as.panel-body {
+  height: 300px;
+  background-image: url(../img/ss3.png);
+  background-size: contain;
+}
+
+#id.panel-body {
+  height: 300px;
+  background-image: url(../img/ss4.png);
+  background-size: contain;
+}
+
+#bs.panel-body {
+  height: 300px;
+  background-image: url(../img/ss5.png);
+  background-size: contain;
+}
+
+#rs.panel-body {
+  height: 300px;
+  background-image: url(../img/ss6.png);
+  background-size: contain;
+}
+
+#bg.panel-body {
+  height: 300px;
+  background-image: url(../img/ss7.png);
+  background-size: contain;
+}
+
+#bl.panel-body {
+  height: 300px;
+  background-image: url(../img/ss8.png);
+  background-size: contain;
+}
+
+#cs.panel-body {
+  height: 300px;
+  background-image: url(../img/ss9.png);
+  background-size: contain;
+}
+
+#ir.panel-body {
+  height: 300px;
+  background-image: url(../img/ss10.png);
+  background-size: contain;
+}
+
+#db.panel-body {
+  height: 300px;
+  background-image: url(../img/ss11.png);
+  background-size: contain;
 }
