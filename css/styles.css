@@ -6,7 +6,7 @@ img {
 
 body {
   background-color: #cbd6db;
-  line-height: 1;
+  /*line-height: 1;*/
 }
 
 .column {
@@ -16,9 +16,17 @@ body {
 }
 
 ol {
-  line-height: 0.8;
+  /*line-height: 0.8;*/
 }
 
 .important {
   color: #1f3460;
+}
+
+.well {
+  margin-top: 50px;
+}
+
+a {
+  text-decoration: underline;
 }
