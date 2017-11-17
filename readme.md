@@ -18,3 +18,5 @@ _A portfolio website, listing projects and basic information, made as an assignm
 ## Technologies Used
 
 _HTML,CSS, Bootstrap_
+
+Copyright (c) 2017 **_telpuhova_**
