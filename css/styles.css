@@ -1,0 +1,24 @@
+img {
+  width: 350px;
+  padding-left: 15%;;
+  /*float: right;*/
+}
+
+body {
+  background-color: #cbd6db;
+  line-height: 1;
+}
+
+.column {
+  float: left;
+  width: 40%;
+  padding-right: 10%;
+}
+
+ol {
+  line-height: 0.8;
+}
+
+.important {
+  color: #1f3460;
+}
