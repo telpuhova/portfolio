@@ -1,10 +1,14 @@
 body {
   background-color: #cbd6db;
-  background: linear-gradient(#a3c0ce, #bac3c6, #abd1b6);
-  background-size: 1500px 1200px;
+  background: linear-gradient(#a3c0ce, #bac3c6, #9ad3ab);
+  background-size: 1500px 1365px;
   background-attachment: fixed;
   /*background-repeat: no-repeat;*/
   /*line-height: 1;*/
+}
+
+h1 {
+  padding-bottom: 20px;
 }
 
 .container {
@@ -49,7 +53,7 @@ p {
   width: 450px;
 }
 
-a {
+ol a {
   text-decoration: underline;
   line-height: 3;
 }
@@ -60,6 +64,10 @@ a {
 
 .panel-heading {
   background-color: #a3c0ce!important;
+}
+
+.panel-heading:hover {
+  background-color: #abd1b6!important;
 }
 
 .panel-title {
